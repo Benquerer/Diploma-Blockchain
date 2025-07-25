@@ -45,3 +45,8 @@ This system offers a practical implementation of blockchain for academic certifi
 ```bash
 git clone https://github.com/Benquerer/Diploma-Blockchain.git
 cd Diploma-Blockchain
+```
+
+---
+
+> This project was developed by [André Benquerer](https://github.com/Benquerer) and [Diogo Laranjeira](https://github.com/DLarangeira03) as the final assignment for the **Computação Distribuída (Distributed Computing)** course at the [Instituto Politécnico de Tomar (IPT)](https://www.ipt.pt), during the 3rd year, 1st semester.
