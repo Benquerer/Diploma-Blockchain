@@ -1,0 +1,32 @@
+# === Java build artifacts ===
+**/classes/
+**/*.class
+/generated-sources/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# === NetBeans project files ===
+nbproject/private/
+nbproject/configs/
+nbproject/Makefile-*.mk
+
+# === Libraries ===
+lib/*
+!lib/.gitkeep 
+
+# === Backup/Temp files ===
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# === IDEs ===
+.idea/
+.vscode/
+.nb-gradle/
+
